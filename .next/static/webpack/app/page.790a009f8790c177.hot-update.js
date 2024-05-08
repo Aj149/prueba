@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5C4%20semestre%5C%5Cprogramacion%20de%20aplicaciones%20web%5C%5Cfront-reac%5C%5Cfront-end%5C%5Cnode_modules%5C%5C%40tremor%5C%5Creact%5C%5Cdist%5C%5Ccomponents%5C%5Cchart-elements%5C%5CAreaChart%5C%5CAreaChart.js%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=false!":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5C4%20semestre%5C%5Cprogramacion%20de%20aplicaciones%20web%5C%5Cfront-reac%5C%5Cfront-end%5C%5Cnode_modules%5C%5C%40tremor%5C%5Creact%5C%5Cdist%5C%5Ccomponents%5C%5Cchart-elements%5C%5CAreaChart%5C%5CAreaChart.js%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=false! ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./node_modules/@tremor/react/dist/components/chart-elements/AreaChart/AreaChart.js */ \"(app-pages-browser)/./node_modules/@tremor/react/dist/components/chart-elements/AreaChart/AreaChart.js\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lN0IlMjJyZXF1ZXN0JTIyJTNBJTIyQyUzQSU1QyU1QzQlMjBzZW1lc3RyZSU1QyU1Q3Byb2dyYW1hY2lvbiUyMGRlJTIwYXBsaWNhY2lvbmVzJTIwd2ViJTVDJTVDZnJvbnQtcmVhYyU1QyU1Q2Zyb250LWVuZCU1QyU1Q25vZGVfbW9kdWxlcyU1QyU1QyU0MHRyZW1vciU1QyU1Q3JlYWN0JTVDJTVDZGlzdCU1QyU1Q2NvbXBvbmVudHMlNUMlNUNjaGFydC1lbGVtZW50cyU1QyU1Q0FyZWFDaGFydCU1QyU1Q0FyZWFDaGFydC5qcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiUyMmRlZmF1bHQlMjIlNUQlN0Qmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSw4UkFBa08iLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz85NGRkIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiZGVmYXVsdFwiXSAqLyBcIkM6XFxcXDQgc2VtZXN0cmVcXFxccHJvZ3JhbWFjaW9uIGRlIGFwbGljYWNpb25lcyB3ZWJcXFxcZnJvbnQtcmVhY1xcXFxmcm9udC1lbmRcXFxcbm9kZV9tb2R1bGVzXFxcXEB0cmVtb3JcXFxccmVhY3RcXFxcZGlzdFxcXFxjb21wb25lbnRzXFxcXGNoYXJ0LWVsZW1lbnRzXFxcXEFyZWFDaGFydFxcXFxBcmVhQ2hhcnQuanNcIik7XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5C4%20semestre%5C%5Cprogramacion%20de%20aplicaciones%20web%5C%5Cfront-reac%5C%5Cfront-end%5C%5Cnode_modules%5C%5C%40tremor%5C%5Creact%5C%5Cdist%5C%5Ccomponents%5C%5Cchart-elements%5C%5CAreaChart%5C%5CAreaChart.js%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=false!\n"));
+
+/***/ })
+
+});
